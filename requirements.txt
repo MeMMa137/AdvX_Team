@@ -1,0 +1,6 @@
+lark-oapi==1.4.20
+pandas==2.3.1
+numpy==2.0.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
